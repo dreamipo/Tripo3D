@@ -1,0 +1,12 @@
+# fastapi
+# uvicorn
+# python-dotenv
+# tripo3d
+
+fastapi
+uvicorn
+python-dotenv
+tripo3d
+python-multipart
+supabase
+
