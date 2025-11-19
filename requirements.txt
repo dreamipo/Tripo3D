@@ -9,4 +9,5 @@ python-dotenv
 tripo3d
 python-multipart
 supabase
+aiohttp
 
